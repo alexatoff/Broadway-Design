@@ -25,3 +25,12 @@ h4{
 .icons p{
   font-size: 14px;
 }
+.spacing h4{
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+}
+.info p{
+  font-size: 14px;
+}
