@@ -34,3 +34,13 @@ h4{
 .info p{
   font-size: 14px;
 }
+.footer p{
+  font-size: 11px;
+  color:white;
+  background-color: dimgray;
+  text-align: left;
+}
+.footer a{
+  color: white;
+  font-size: 18px;
+}
